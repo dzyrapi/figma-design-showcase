@@ -1,17 +1,11 @@
-# SmartHome — UI/UX Design Project
+# SmartHome — Projekt Dizajni "Nderveprimi Kompjuter/Njeri"
 
-A UI/UX design project for a SmartHome application, designed in Figma.
+Një projekt dizajni UI/UX për një aplikacion SmartHome, i dizajnuar në Figma.
 
-## Figma Design
+## Dizajni në Figma
 
-View the design here: **[Open in Figma](https://www.figma.com/design/BeUd79HU371rmDIadmfzeD/Untitled?node-id=0-1&t=51ZVFILzOEwX8lG5-1)**
+Dizajni: **[Hape në Figma](https://www.figma.com/design/BeUd79HU371rmDIadmfzeD/Untitled?node-id=0-1&t=51ZVFILzOEwX8lG5-1)**
 
-## Project Report
+## Rreth projektit
 
-The full project report is included in this repository:
-
-- [SmartHome-Report.docx](SmartHome-Report.docx)
-
-## About
-
-This repository was created to showcase the design work for review.
+Ky repository u krijua për të prezantuar punën e dizajnit për vlerësim.
